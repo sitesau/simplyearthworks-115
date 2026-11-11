@@ -1,0 +1,22 @@
+{
+  "wheel_id": 871,
+  "structure": "umbrella",
+  "slug": "simplyearthworks-115",
+  "project": "earthmoving-adelaide-materials-compared-9f4281de77b497c63a9f21f",
+  "parent_t1_ref": "simplyearthworks-157",
+  "node_role": "feeder",
+  "money_target": "simplyearthworks.com.au",
+  "primary_kw": "earthmoving adelaide materials compared",
+  "intended_url": "http://earthmoving-adelaide-materials-compared-9f4281de77b497c63a9f21f.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "8fd9cd96e929fc1c",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/simplyearthworks-157/",
+      "anchor": "Earthmoving Adelaide Council and Approvals: 2026 Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
